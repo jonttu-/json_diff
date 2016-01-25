@@ -10,13 +10,11 @@ python
 Included is the actual class that does the diff (jsondiffer.py) as well as a test suite (jsondiffer_tests.py)
 
 ## Usage example
-<pre><code>
->>> import jsondiffer
->>> differ = jsondiffer.MyDiffer()
->>> result = differ.diff({"foo":{"bar":"baz1","biz":"foo"}}, {"foo":{"bar":"baz","biz":"foo"}})
->>> print result
-{'foo': {'bar': 'baz'}}
-</pre></code>
+    >>> import jsondiffer
+    >>> differ = jsondiffer.MyDiffer()
+    >>> result = differ.diff({"foo":{"bar":"baz1","biz":"foo"}}, {"foo":{"bar":"baz","biz":"foo"}})
+    >>> print result
+    {'foo': {'bar': 'baz'}}
 
 ## Tests
 To execute the included unit tests:
