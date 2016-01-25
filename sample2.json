@@ -1,0 +1,45 @@
+  {
+    "_id": "56a6055dc48ac9528b78bc59",
+    "index": 0,
+    "guid": "738f7ddd-9f06-4d89-bc7c-b56eea6b92e4",
+    "isActive": true,
+    "balance": "$2,417.46",
+    "picture": "http://placehold.it/32x32",
+    "age": 39,
+    "eyeColor": "blue",
+    "name": "Smith Morrison",
+    "gender": "male",
+    "company": "ETERNIS",
+    "email": "smithmorrison@eternis.com",
+    "phone": "+1 (952) 459-3485",
+    "address": "144 Croton Loop, Chautauqua, Arkansas, 5322",
+    "about": "Enim dolor officia sit est et cupidatat. Reprehenderit labore et dolor culpa ut officia aute sit. Anim ea amet dolore commodo nisi. Anim sint cupidatat pariatur sint nulla commodo et nostrud magna dolor enim.\r\n",
+    "registered": "2014-08-20T02:51:30 -03:00",
+    "latitude": -18.391833,
+    "longitude": 47.743238,
+    "tags": [
+      "commodo",
+      "tempor",
+      "amet",
+      "sint",
+      "pariatur",
+      "consequat",
+      "mollit"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Avis Lawrence"
+      },
+      {
+        "id": 1,
+        "name": "Rosa Mcclain"
+      },
+      {
+        "id": 2,
+        "name": "Brennan Hensley"
+      }
+    ],
+    "greeting": "Hello, Smith Morrison! You have 2 unread messages.",
+    "favoriteFruit": "banana"
+  }
